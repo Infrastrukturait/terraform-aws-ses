@@ -1,0 +1,20 @@
+{
+  "name": "terraform-aws-ses",
+  "repo_url": "https://github.com/Infrastrukturait/terraform-aws-ses",
+  "license": "GPLv3",
+  "includes": [
+    "docs/terraform.md"
+  ],
+  "authors": [
+    {
+      "name": "Rafał Masiarek",
+      "email": "rafal@masiarek.pl",
+      "github": "rafalmasiarek",
+      "website": "https://masiarek.pl"
+    }
+  ],
+  "context": [
+    "## About",
+    "Terraform module to provision [Simple Email Service](https://aws.amazon.com/ses/) on AWS."
+  ]
+}
