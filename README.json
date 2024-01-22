@@ -1,7 +1,7 @@
 {
   "name": "terraform-aws-ses",
   "repo_url": "https://github.com/Infrastrukturait/terraform-aws-ses",
-  "license": "GPLv3",
+  "license": "MIT",
   "includes": [
     "docs/terraform.md"
   ],
